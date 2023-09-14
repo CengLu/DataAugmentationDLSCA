@@ -1,7 +1,11 @@
 # Data augmentation for deep learning-based profiling side-channel analysis
 
 ### Installation
-
+建立conda虚拟环境
+```
+conda create -n DataAugment python=3.7 -y
+conda activate DataAugment 
+```
 ```
 git clone https://github.com/AISyLab/DataAugmentationDLSCA.git
 cd DataAugmentationDLSCA
